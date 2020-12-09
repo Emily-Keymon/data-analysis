@@ -1,0 +1,35 @@
+Dashboard data collection
+
+#For forecast:
+Export straight from forecast module
+No clean up
+Save as csv file
+Save as Excel for DASHBOARD?
+Name JAX FC and LEX FC
+
+#For open orders:
+Run the xl version of open orders
+Filter date before 12/30/20 
+Remove interplant orders
+Save as csv file
+Save as Excel for DASHBOARD?
+Name JAX OPEN ORDERS and LEX OPEN ORDERS
+
+
+Remove buy parts?
+
+
+LOOKUP xl sheet needs to be maintained
+
+Add eq units to forecast and add eq units calculations 
+
+FC has all dates on it and buy parts on it
+
+LOOKUP file $ are off a little
+
+Sum total extended price by Jax FC, Jax SO, Lex FC, Lex SO
+
+
+
+
+
