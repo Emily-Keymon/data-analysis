@@ -10,7 +10,7 @@ The purpose of this project is to create a Customer Dashboard that includes open
 * Jupyter Notebook
 * Python - Pandas
 * Microsoft Excel
-* Oracle 
+* Oracle 12.1.3
 
 ---
 ## Tasks
