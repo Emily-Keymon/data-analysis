@@ -20,4 +20,13 @@ The purpose of this project is to create a Customer Dashboard that includes open
 ---
 ## Results
 
+![Oracle_info](https://user-images.githubusercontent.com/64673015/104372260-99d43f80-54e5-11eb-92f3-a0254e50a4b7.PNG)
+
+
+![FC1](https://user-images.githubusercontent.com/64673015/104372584-a6589800-54e5-11eb-9937-bd7cb9ef1e7c.PNG)
+
+
+![FC2](https://user-images.githubusercontent.com/64673015/104372770-b2dcf080-54e5-11eb-8bf1-35aa7415871e.PNG)
+
+
 
