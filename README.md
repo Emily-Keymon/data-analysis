@@ -23,7 +23,7 @@ The purpose of this project is to create a Customer Dashboard that includes open
 
 ---
 ## Tasks
-### JAX-LEX FC DATA
+## Forecast Data
 ### Extract Data
 1.	Import libraries
 2.	Load jax fc file
@@ -56,6 +56,9 @@ The purpose of this project is to create a Customer Dashboard that includes open
 ### Repeat Steps 1 - 23 for LEX FC Data
 
 ----
+## Sales Order Data
+### Extract Data
+1.  
 
 ---
 ## Oracle Information
