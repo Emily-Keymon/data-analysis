@@ -1,3 +1,9 @@
+# This project is currently in process
+## Troubleshooting
+1.  Currently the FC data does not have a customer name on every line item.  Working through a fix for this.  
+2.  Creating the new dataframe to split the CSV into two columns is duplicating each line eight items for each date. 
+
+---
 # Data Analysis
 The purpose of this project is to create a Customer Dashboard that includes open Sales Orders and Forecast from Oracle.  There is currently no reporting for Forecast from the Oracle module being utilized.  Forecast data is entered into Oracle Forms with no reporting structure that will return Customer Name and $.
 
@@ -29,11 +35,6 @@ The purpose of this project is to create a Customer Dashboard that includes open
 
 
 ![FC2](https://user-images.githubusercontent.com/64673015/104372770-b2dcf080-54e5-11eb-8bf1-35aa7415871e.PNG)
-
----
-## Troubleshooting
-1.  Currently the FC data does not have a customer name on every line item.  Working through a fix for this.  
-2.  Creating the new dataframe to split the CSV into two columns is duplicating each line eight items for each date. 
 
 ---
 ## Results
