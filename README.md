@@ -23,9 +23,9 @@ The purpose of this project is to create a Customer Dashboard that includes open
 * Step one - ETL data using sales order and forecast reporting for a business unit
 ### JAX-LEX FC DATA
 ### Extract Data
-1	Import libraries
-2	Load jax fc file
-3	Read csv file into DataFrame, set Item as index
+1.	Import libraries
+2.	Load jax fc file
+3.	Read csv file into DataFrame, set Item as index
 
 ###	Transform Data
 4	Remove extra columns 
