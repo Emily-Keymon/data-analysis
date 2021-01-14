@@ -31,6 +31,11 @@ The purpose of this project is to create a Customer Dashboard that includes open
 ![FC2](https://user-images.githubusercontent.com/64673015/104372770-b2dcf080-54e5-11eb-8bf1-35aa7415871e.PNG)
 
 ---
+## Troubleshooting
+1.  Currently the FC data does not have a customer name on every line item.  Working through a fix for this.  
+2.  Creating the new dataframe to split the CSV into two columns is duplicating each line eight items for each date. 
+
+---
 ## Results
 
 
