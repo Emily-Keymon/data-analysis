@@ -7,6 +7,9 @@
 # Data Analysis
 The purpose of this project is to create a Customer Dashboard that includes open Sales Orders and Forecast from Oracle.  There is currently no reporting for Forecast from the Oracle module being utilized.  Forecast data is entered into Oracle Forms with no reporting structure that will return Customer Name and $.
 
+* Step one - ETL data using sales order and forecast reporting for a business unit
+* Step two - Create visualizations for presentation in Sales, Inventory and Operations Planning review for business unit
+
 ---
 ## Data Sources
 
@@ -20,7 +23,6 @@ The purpose of this project is to create a Customer Dashboard that includes open
 
 ---
 ## Tasks
-* Step one - ETL data using sales order and forecast reporting for a business unit
 ### JAX-LEX FC DATA
 ### Extract Data
 1.	Import libraries
@@ -54,8 +56,6 @@ The purpose of this project is to create a Customer Dashboard that includes open
 ### Repeat Steps 1 - 23 for LEX FC Data
 
 ----
-
-* Step two - Create visualizations for presentation in Sales, Inventory and Operations Planning review for business unit
 
 ---
 ## Oracle Information
