@@ -47,6 +47,12 @@ The purpose of this project is to create a Customer Dashboard that includes open
 20.	Check total count against resource file to ensure data is correct
 21.	Sort by Date, then Item 
 
+### Save Data
+22. Save file to csv
+23. Save file to Excel
+
+### Repeat Steps 1 - 23 for LEX FC Data
+
 * Step two - Create visualizations for presentation in Sales, Inventory and Operations Planning review for business unit
 
 ---
