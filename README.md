@@ -28,24 +28,24 @@ The purpose of this project is to create a Customer Dashboard that includes open
 3.	Read csv file into DataFrame, set Item as index
 
 ###	Transform Data
-4	Remove extra columns 
-5	New data frame with split value columns for Comment column
-6	Make separate Customer column from new data frame 
-7	Make separate Price column from new data frame 
-8	Dropping 0 and 1 columns from new data frame
-9	Merge jax_fc and new data frames
-10	Change Current to Qty
-11	Remove Qty 0
-12	Check data types
-13	Change Price data type from object to float
-14	Recheck data types
-15	Check total count against resource file to ensure data is correct
-15	Add extended price column and populate with Price * Qty
-16	Add column TYPE = FC
-17	Add column Org = JAX or LEX
-18	New data frame with deleted Comment column
-19	Check total count against resource file to ensure data is correct
-20	Sort by Date, then Item 
+4.	Remove extra columns 
+5.	New data frame with split value columns for Comment column
+6.	Make separate Customer column from new data frame 
+7.	Make separate Price column from new data frame 
+8.	Dropping 0 and 1 columns from new data frame
+9.	Merge jax_fc and new data frames
+10.	Change Current to Qty
+11.	Remove Qty 0
+12.	Check data types
+13.	Change Price data type from object to float
+14.	Recheck data types
+15.	Check total count against resource file to ensure data is correct
+16.	Add extended price column and populate with Price * Qty
+17.	Add column TYPE = FC
+18.	Add column Org = JAX or LEX
+19.	New data frame with deleted Comment column
+20.	Check total count against resource file to ensure data is correct
+21.	Sort by Date, then Item 
 
 * Step two - Create visualizations for presentation in Sales, Inventory and Operations Planning review for business unit
 
