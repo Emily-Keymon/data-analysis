@@ -63,7 +63,7 @@ The purpose of this project is to create a Customer Dashboard that includes open
 ![Oracle_info](https://user-images.githubusercontent.com/64673015/104372260-99d43f80-54e5-11eb-92f3-a0254e50a4b7.PNG)
 
 ---
-## Initial Forecast Data
+## Initial Forecast Data Sample
 
 ![FC1](https://user-images.githubusercontent.com/64673015/104372584-a6589800-54e5-11eb-9937-bd7cb9ef1e7c.PNG)
 
