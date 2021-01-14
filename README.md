@@ -53,6 +53,8 @@ The purpose of this project is to create a Customer Dashboard that includes open
 
 ### Repeat Steps 1 - 23 for LEX FC Data
 
+----
+
 * Step two - Create visualizations for presentation in Sales, Inventory and Operations Planning review for business unit
 
 ---
