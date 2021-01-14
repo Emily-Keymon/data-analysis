@@ -24,12 +24,12 @@ The purpose of this project is to create a Customer Dashboard that includes open
 ---
 ## Tasks
 ## Forecast Data
-### Extract Data
+### Extract 
 1.	Import libraries
 2.	Load jax fc file
 3.	Read csv file into DataFrame, set Item as index
 
-###	Transform Data
+###	Transform 
 4.	Remove extra columns 
 5.	New data frame with split value columns for Comment column
 6.	Make separate Customer column from new data frame 
@@ -49,7 +49,7 @@ The purpose of this project is to create a Customer Dashboard that includes open
 20.	Check total count against resource file to ensure data is correct
 21.	Sort by Date, then Item 
 
-### Save Data
+### Save 
 22. Save file to csv
 23. Save file to Excel
 
@@ -57,8 +57,10 @@ The purpose of this project is to create a Customer Dashboard that includes open
 
 ----
 ## Sales Order Data
-### Extract Data
+### Extract 
 1.  
+
+
 
 ---
 ## Oracle Information
