@@ -14,6 +14,7 @@ The purpose of this project is to create a Customer Dashboard that includes open
 
 ---
 ## Data Sources
+* [LOOKUP.xlsx](https://github.com/Emily-Keymon/data-analysis/files/5838729/LOOKUP.xlsx)
 
 
 ---
