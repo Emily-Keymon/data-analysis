@@ -81,6 +81,11 @@ The purpose of this project is to create a Customer Dashboard that includes open
 1. 
 
 ---
+### Visusalizations
+1.  
+
+
+---
 ### Load
 1.  
 
