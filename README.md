@@ -94,6 +94,10 @@ The purpose of this project is to create a Customer Dashboard that includes open
 ![FC2](https://user-images.githubusercontent.com/64673015/104372770-b2dcf080-54e5-11eb-8bf1-35aa7415871e.PNG)
 
 ---
+## Initial Open Orders Report Sample
+
+![OO1](https://user-images.githubusercontent.com/64673015/105095794-c4854180-5a6b-11eb-91d5-b9929448d7fc.PNG)
+
 ## Results
 
 
