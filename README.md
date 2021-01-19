@@ -18,7 +18,7 @@ The purpose of this project is to create a Customer Dashboard that includes open
 * https://github.com/Emily-Keymon/data-analysis/blob/main/Resources/JAX%20FC.csv
 * https://github.com/Emily-Keymon/data-analysis/blob/main/Resources/LEX%20FC.csv
 * https://github.com/Emily-Keymon/data-analysis/blob/main/Resources/JAX%20OPEN%20ORDERS.xlsx
-
+* https://github.com/Emily-Keymon/data-analysis/blob/main/Resources/LEX%20OPEN%20ORDERS.xlsx
 
 ---
 ## Tools Used
