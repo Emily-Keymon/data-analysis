@@ -31,6 +31,7 @@ The purpose of this project is to create a Customer Dashboard that includes open
 1.	Import libraries
 2.	Load jax fc file
 3.	Read csv file into DataFrame, set Item as index
+
 ### Transform 
 4.	Remove extra columns 
 5.	New data frame with split value columns for Comment column
@@ -64,6 +65,10 @@ The purpose of this project is to create a Customer Dashboard that includes open
 ---
 ### Transform
 1.  
+
+
+
+### Repeat Steps 1 - 23 for LEX SO Data
 
 
 ---
