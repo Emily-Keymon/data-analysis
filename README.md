@@ -61,32 +61,32 @@ The purpose of this project is to create a Customer Dashboard that includes open
 #### Repeat Steps 1 - 23 for LEX FC Data
 
 ----
-## Sales Order Data
-### Extract 
+### Sales Order Data
+#### Extract 
 1.  
 
 
 ---
-### Transform
+#### Transform
 1.  
 
 
 
-### Repeat Steps 1 - 23 for LEX SO Data
+#### Repeat Steps 1 - 23 for LEX SO Data
 
 
 ---
-## Forecast + Sales Orders
-### Merge
+### Forecast + Sales Orders
+#### Merge
 1. 
 
 ---
-### Visusalizations
+#### Visusalizations
 1.  
 
 
 ---
-### Load
+#### Load
 1.  
 
 ---
