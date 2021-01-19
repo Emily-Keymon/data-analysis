@@ -50,8 +50,6 @@ The purpose of this project is to create a Customer Dashboard that includes open
 19.	New data frame with deleted Comment column
 20.	Check total count against resource file to ensure data is correct
 21.	Sort by Date, then Item 
-
-### Save 
 22. Save file to csv
 23. Save file to Excel
 
@@ -69,7 +67,11 @@ The purpose of this project is to create a Customer Dashboard that includes open
 
 
 ---
+## Forecast + Sales Orders
+### Merge
+1. 
 
+---
 ### Load
 1.  
 
