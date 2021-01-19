@@ -31,7 +31,7 @@ The purpose of this project is to create a Customer Dashboard that includes open
 2.	Load jax fc file
 3.	Read csv file into DataFrame, set Item as index
 
-###	Transform 
+### Transform 
 4.	Remove extra columns 
 5.	New data frame with split value columns for Comment column
 6.	Make separate Customer column from new data frame 
@@ -63,6 +63,15 @@ The purpose of this project is to create a Customer Dashboard that includes open
 1.  
 
 
+---
+### Transform
+1.  
+
+
+---
+
+### Load
+1.  
 
 ---
 ## Oracle Information
